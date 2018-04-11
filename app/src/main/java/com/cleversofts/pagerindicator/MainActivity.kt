@@ -9,8 +9,6 @@ import android.support.v4.view.ViewPager
 import com.cleversofts.pagerindicator.R.id.pager
 
 
-
-
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
